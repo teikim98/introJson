@@ -1,0 +1,86 @@
+[
+    {
+        "navTitle":[
+            "aboutMe",
+            "wantTobe",
+            "contactMe"
+        ],
+        
+        "navLink":[
+            {
+            "aboutMe" : "#aboutMe"
+            },
+            {
+            "wantTobe" : "#wantTobe"
+            },
+            {
+            "contactMe" : "#contactMe"
+            }
+             
+        ]
+        ,
+        "navIn":"Lorem"
+    },
+    {
+        "aboutMeTitle":"aboutMe",
+        "aboutMeContent":[
+            {
+                "skillTitle":"Skill",
+                "skillContent" :{
+                    "js":"Js",
+                    "react":"React",
+                    "htmlCss":"HTML + CSS",
+                    "nodeJs":"Node.js"
+                }
+            },
+            {
+                "profileTitle":"Profile",
+                "profileContent" :{
+                    "school":"school",
+                    "certificate" :"자격증",
+                    "goal" : "목표"
+                }
+            },
+            {
+                "carrerTitle":"Career",
+                "profileContent" :{
+                    "school":"school",
+                    "certificate" :"자격증",
+                    "goal" : "목표"
+                }
+            }
+        ]
+        
+    },
+    {
+        "wantTobeP":[
+            {
+                "wantTobeEx":"저는 이런사람입니다",
+                "wantTobeExP":"저는 이렇게해서 이런사람이 되고싶습니다"
+            },
+            {
+                "wantTobeEx":"저는 이런사람입니다",
+                "wantTobeExP":"저는 이렇게해서 이런사람이 되고싶습니다"
+            }
+        ]
+    },
+    {
+        "contactMeTitle" : "ContactMe",
+        "contactMeLink":[
+            {
+                "LinkInsta" : "#Instagram"
+            },
+            {
+                "LinkGithub" : "#github"
+            },
+            {
+                "LinkFacebook" : "#Facebook"
+            },
+            {
+                "LinkBlog" : "#Blog"
+            }
+        ]
+
+    }
+
+]
